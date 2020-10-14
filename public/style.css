@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgrey;
+    margin: 20;
+    padding: 0;
+}
+
+/* header{
+    margin-top: 0;
+    font-size: 18px;
+    background-color: gray;
+    padding: 10px;
+
+} */
+
+.taskItem{
+    background-color: darkgray;
+    
+    padding: 8px;
+    border-bottom:  1px solid sandybrown;
+    
+}
